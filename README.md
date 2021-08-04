@@ -24,6 +24,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=moon-9999&layout=compact&theme=material-palenight" />
 </a>
+<br />
+<br />
 
 <a href="https://github.com/moon-9999/Js-Lyrics-Bot">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
