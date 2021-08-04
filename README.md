@@ -33,6 +33,8 @@
 </a>
 
 <br />
+<br />
+
 <a href="https://discord.gg/bmceBj6nH9">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
