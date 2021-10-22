@@ -41,4 +41,4 @@
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
-Discord : ! レム#9999
+Discord : ! レムリン#9999
