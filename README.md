@@ -1,44 +1,43 @@
-### 환영합니다! 👋 
+<h2 align="center">Hello, World!</h2>
+<p align="center">I'm just an average full-stack student developer with a love for JavaScript.</p>
 
+- Main Project: [레무링](https://rem9999.xyz)
 
-**주 사용 언어**  
+### Contact
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- Discord: ! レムリン#9999  
+- Discord Server: [Join](https://rem-guilds.xyz)
+- E-Mail: admin@rem9999.xyz  
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
+### Developing
 
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+- Discord Bots
+- Web Sites
+- Apps
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=rem-9999&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<br />
-<br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rem-9999&layout=compact&theme=material-palenight" />
-</a>
-<br />
-<br />
+#### Project currently working on
 
-<a href="https://github.com/moon-9999/Js-Lyrics-Bot">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=rem-9999&repo=Js-Lyrics-Bot&theme=material-palenight" />
-</a>    
-<a href="https://github.com/moon-9999/DiscordBot">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=rem-9999&repo=DiscordBot&theme=material-palenight" />
-</a>
+- [디스코드 레무링 봇](https://rem9999.xyz)
+- [디스코드 에밀리아 봇](https://github.com/Remuring-Orario/Emilia)
 
-<br />
-<br />
+### Stacks
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-: 모든질문 및 문의 <a href="https://discord.gg/bmceBj6nH9">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+### Github Stats
 
-Discord : ! レムリン#9999
+![! レムリン's Github Stats](https://github-readme-stats.vercel.app/api?username=rem-9999&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+  
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rem-9999&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff)](https://github.com/rem-9999/github-readme-stats)
+
+#### ❤️❤️❤️
+
+- 📽️ Anime
+- Re: 제로부터 시작하는 이세계 생활 - 
+- 장난을 잘치는 타카기양 - 타카기
