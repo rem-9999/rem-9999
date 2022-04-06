@@ -30,5 +30,3 @@
 ### Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rem-9999&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff)](https://github.com/rem-9999/github-readme-stats)
-
-- 📽️ 서브컬쳐 사랑해요
